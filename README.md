@@ -6,7 +6,7 @@ This project analyzes Uber ride data using Power BI to derive actionable insight
 
 ## Key Features
 
-1. KPIs
+### KPIs
 
 1. Total Bookings: Shows the total bookings.
 2. Success Rate: Percentage of completed bookings.
