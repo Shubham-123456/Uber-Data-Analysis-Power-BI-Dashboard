@@ -13,31 +13,31 @@ This project analyzes Uber ride data using Power BI to derive actionable insight
 3. Cancellation Rate: Percentage of bookings that were canceled.
 4. Incomplete Rate: Percentage of bookings not completed due to various reasons.
 
-2. Ride Volume Over Time
+### Ride Volume Over Time
 
-Time-series analysis to track ride volume trends.
-Identification of peak hours, days, and seasons to optimize operations.
+1. Time-series analysis to track ride volume trends.
+2. Identification of peak hours, days, and seasons to optimize operations.
 
-4. Booking Status Analysis
+### Booking Status Analysis
 
-Detailed breakdown of booking statuses like Successful bookings, Canceled bookings and Incomplete bookings.
-Insights into factors affecting booking outcomes.
+1. Detailed breakdown of booking statuses like Successful bookings, Canceled bookings and Incomplete bookings.
+2. Insights into factors affecting booking outcomes.
 
-6. Vehicle Type Comparisons
+### Vehicle Type Comparisons
 
-Analysis of the distribution and popularity of different vehicle types.
-Understanding customer preferences and demand patterns.
+1. Analysis of the distribution and popularity of different vehicle types.
+2. Understanding customer preferences and demand patterns.
 
-7. Top Performers
+### Top Performers
 
-Top Customers: Identification of high-value customers contributing significantly to revenue.
-Top Vehicles: Analysis of the most utilized vehicles based on ride volume.
+1. Top Customers: Identification of high-value customers contributing significantly to revenue.
+2. Top Vehicles: Analysis of the most utilized vehicles based on ride volume.
 
-8. Driver and Customer Ratings
+### Driver and Customer Ratings
 
-Driver ratings by customers.
-Customer ratings provided by drivers.
-Insights to improve service delivery and customer satisfaction.
+1. Driver ratings by customers.
+2. Customer ratings provided by drivers.
+3. Insights to improve service delivery and customer satisfaction.
 
 ## Data Visualizations
 
