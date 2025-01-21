@@ -8,10 +8,10 @@ This project analyzes Uber ride data using Power BI to derive actionable insight
 
 1. KPIs
 
-Total Bookings: Shows the total bookings.
-Success Rate: Percentage of completed bookings.
-Cancellation Rate: Percentage of bookings that were canceled.
-Incomplete Rate: Percentage of bookings not completed due to various reasons.
+1. Total Bookings: Shows the total bookings.
+2. Success Rate: Percentage of completed bookings.
+3. Cancellation Rate: Percentage of bookings that were canceled.
+4. Incomplete Rate: Percentage of bookings not completed due to various reasons.
 
 2. Ride Volume Over Time
 
